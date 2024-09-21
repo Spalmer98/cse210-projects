@@ -8,10 +8,8 @@ class Program
         List<int> numbers = new List<int>();
         int userInput = -1;
         int sum = 0;
-        int number;
-        int total = 0;
         float average;
-        
+
         Console.WriteLine("Enter a list of numbers, type 0 when finished.");
         while (userInput != 0)
         {  
