@@ -1,0 +1,11 @@
+Intro Message welcoming user to the program
+menu containing options for "Write new entry," "Display the journal," "Save the Journal to a file," "Load the journal from a file," and "Quit."
+Wrtie a new entry must contain five differnet prompts minimum that will be dispalyed to the user at random.
+
+Journal class that adds a new entry, loads, saves, and displays the journal
+
+
+Entry class for storing the entries created
+
+PromptGenerator class that generates a random prompt from our list of possible prompts
+
